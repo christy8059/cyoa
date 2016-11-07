@@ -1,4 +1,4 @@
 It is summer break. What do you want to do? 
 
 A. [Buy a plane ticket](../ticket.txt)
-B. Stay home
+B. [Stay home](../stay-home/
