@@ -1,3 +1,3 @@
 Where do you want to go?   
-Paris  
-Mexico  
+[Paris](../paris/paris.md)  
+[Mexico](../mexico/mexico.md)  
